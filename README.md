@@ -4,12 +4,12 @@
 
 
 - 💕 I love developing and researching.
-- - 🌱 I’m currently learning: vue, remix, astro, postgress and llm's.
+- 🌱 I’m currently learning: vue, remix, astro, postgress and llm's.
 - 🎹 I've been involve in music production since a kid.
 - 👯 Looking for a team or an organization where I can learn and develop my skills.
 - 🔭 I’m currently working on social apps, O-auth and postgress.
-
-
+<br>
+<br>
 
 
 📫 Reach me out on: <a href="https://www.linkedin.com/in/omar-gaxiola"/>LinkedIn</a>
