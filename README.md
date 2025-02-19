@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi there this is Omar 👋
+
+
+GIF
+
+💕 I love developing and researching.
+🎹 I've been involve in music production since a kid.
+👯 Looking for a team or an organization where I can learn and develop my skills.
+🔭 I’m currently working on social apps, O-auth and postgress.
+
+📫 Reach me out on: <a href=www.linkedin.com/in/omar-gaxiola>LinkedIn</a>
+email: gaxiolaomar04@gmail.com
+
+
 
 <!--
 **omarigg04/omarigg04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
