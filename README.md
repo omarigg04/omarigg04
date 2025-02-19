@@ -10,8 +10,7 @@
 - 🔭 I’m currently working on social apps, O-auth and postgress.
 <br>
 <br>
-
-
+<br>
 📫 Reach me out on: <a href="https://www.linkedin.com/in/omar-gaxiola"/>LinkedIn</a>
 email: gaxiolaomar04@gmail.com
 
