@@ -3,12 +3,12 @@
 
 
 
-💕 I love developing and researching. /n
-🎹 I've been involve in music production since a kid.
-👯 Looking for a team or an organization where I can learn and develop my skills.
-🔭 I’m currently working on social apps, O-auth and postgress.
+- 💕 I love developing and researching.
+- 🎹 I've been involve in music production since a kid.
+- 👯 Looking for a team or an organization where I can learn and develop my skills.
+- 🔭 I’m currently working on social apps, O-auth and postgress.
 
-📫 Reach me out on: <a href="https://www.linkedin.com/in/omar-gaxiola"/>LinkedIn</a>
+-📫 Reach me out on: <a href="https://www.linkedin.com/in/omar-gaxiola"/>LinkedIn</a>
 email: gaxiolaomar04@gmail.com
 
 
