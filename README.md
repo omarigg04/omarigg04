@@ -1,6 +1,6 @@
 ## Hi there this is Omar 👋
 
-<img align="right" alt="GIF" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1156380/3a2c04b76d125fdb275bd26ed381c8c73c220686.gif" width="200"/>
+<img align="right" alt="GIF" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1156380/3a2c04b76d125fdb275bd26ed381c8c73c220686.gif" width="220"/>
 
 
 - 💕 I love developing and researching.
