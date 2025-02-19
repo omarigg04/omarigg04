@@ -1,7 +1,7 @@
 ## Hi there this is Omar 👋
 
 
-GIF
+
 
 💕 I love developing and researching.
 🎹 I've been involve in music production since a kid.
