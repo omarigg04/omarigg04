@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1156380/3a2c04b76d125fdb275bd26ed381c8c73c220686.gif" width="230"/>
 
 
-- 💕 I love developing and researching.
+-  I love developing and researching.
 - 🌱 I’m currently learning: vue, remix, astro, postgress and llm's.
 - 🎹 I've been involve in music production since a kid.
 - 👯 Looking for a team or an organization where I can learn and develop my skills.
