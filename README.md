@@ -15,10 +15,13 @@
 email: gaxiolaomar04@gmail.com
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=omargaxiola&show_icons=true&theme=dracula)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarigg04&show_icons=true&theme=dracula)
 
 ### ⚡ Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omargaxiola&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarigg04&layout=compact&theme=dracula)
+
+
+
 
 <!--
 **omarigg04/omarigg04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
