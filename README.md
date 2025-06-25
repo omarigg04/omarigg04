@@ -8,9 +8,7 @@
 - 🎹 I've been involve in music production since a kid.
 - 👯 Looking for a team or an organization where I can learn and develop my skills.
 - 🔭 I’m currently working on social apps, O-auth and postgress.
-<br>
-<br>
-<br>
+
 📫 Reach me out on: <a href="https://www.linkedin.com/in/omar-gaxiola"/>LinkedIn</a>
 email: gaxiolaomar04@gmail.com
 
