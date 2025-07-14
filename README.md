@@ -1,4 +1,4 @@
-## Hi there this is Omar 👋
+## Omar Gaxiola / Fullstack Developer
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=omarigg04&locale=es)](https://git.io/streak-stats)
 
