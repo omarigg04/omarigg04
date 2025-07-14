@@ -1,5 +1,7 @@
 ## Hi there this is Omar 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=omarigg04)](https://git.io/streak-stats)
+
 <img align="right" alt="GIF" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1156380/3a2c04b76d125fdb275bd26ed381c8c73c220686.gif" width="200"/>
 
 
@@ -12,13 +14,14 @@
 📫 Reach me out on: <a href="https://www.linkedin.com/in/omar-gaxiola"/>LinkedIn</a>
 email: gaxiolaomar04@gmail.com
 
+<!--
 ### 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarigg04&show_icons=true&theme=dracula)
 
 ### ⚡ Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarigg04&layout=compact&theme=dracula)
 
-
+-->
 
 
 <!--
