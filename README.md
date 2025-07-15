@@ -7,7 +7,7 @@
 
 
 -  I love developing and researching.
-- 🌱 I’m currently learning: nest, flutter, astro, postgress and llm's.
+- 🌱 I’m currently learning: nest, flutter, astro and llm's.
 - 🎹 I've been involve in music production since a kid.
 - 👯 Looking for a team or an organization where I can learn and develop my skills.
 - 🔭 I’m currently working on aws services, RDS, S3, and mobile technologies
