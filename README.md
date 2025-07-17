@@ -72,6 +72,9 @@ email: gaxiolaomar04@gmail.com
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
   <img width="12" />
 </div>
+
+### ⚡ Top Repositories:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarigg04&repo=app-auth-og&theme=swift)](https://github.com/HwangTaehyun/react-native-lottie-splash-screen)
 <!--
 ### 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=omarigg04&show_icons=true&theme=dracula)
@@ -79,8 +82,6 @@ email: gaxiolaomar04@gmail.com
 ### ⚡ Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarigg04&layout=compact&theme=dracula)
 
-<strong> Top Repositories</strong
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarigg04&repo=app-auth-og&theme=swift)](https://github.com/HwangTaehyun/react-native-lottie-splash-screen)
 
 
 <!--
