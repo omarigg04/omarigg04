@@ -1,7 +1,7 @@
 ## Omar Gaxiola / Fullstack Developer
 
 
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=omarigg04&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+
 
 
 -  I love developing and researching.
@@ -72,6 +72,8 @@ email: gaxiolaomar04@gmail.com
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
   <img width="12" />
 </div>
+
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=omarigg04&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 
 ### ⚡ Top Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarigg04&repo=app-auth-og&theme=swift)](https://github.com/omarigg04/app-auth-og)
