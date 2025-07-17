@@ -1,7 +1,7 @@
 ## Omar Gaxiola / Fullstack Developer
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=omarigg04&locale=es)](https://git.io/streak-stats)
 
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=omarigg04&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 
 <img align="right" alt="GIF" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/1156380/3a2c04b76d125fdb275bd26ed381c8c73c220686.gif" width="200"/>
 
